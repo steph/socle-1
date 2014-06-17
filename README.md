@@ -1,2 +1,3 @@
-socle
-=====
+# Socle
+
+## Projet socle.
